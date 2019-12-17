@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b166f46e1d1c06dda96c9e57c5c5c61c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b5c2465895c03f3507f55d32c2e15e01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\51040c913a4f7ae7efdb9a35bb685f67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\8833feca73434a68f0b2ec77ad5354aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\76ad538152a443912be62292db06653d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\fda70aa71d9092804d2ed1e8cfa76b4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\0efe35996b255db7a6af829fb14e715f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\aabbbe5150b4981cb37232f018bb3854\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\ca38c7e8efd6c61f1e2f6f309db0b482\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\d17f81b110b08870c98f21f60d7452a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\748ce6fd5947222f6da86a1e29efb68b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\e6749b75065415de83d3772cedb23e02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\f4cb36ded91832573e5fbabe2d8de58e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\859ad9d9d5e594eb9640e415e0401dc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\6d86239374c99fb9affe93ff848cdb24\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\50098c5471197414fca79dbad5485756\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\624375d6ce7c21ccafb9e6bf7af35903\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\379742d6b12351c2812602f37bd6422e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\4d2d10ecc43acd23ed4af826916d894b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b44096fd614aa57f6bb98545bd0a2ed7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b341308c6c97876545502443080a95df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\22f924eeac93c6ee9a81c69fc5317808\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\7c8c477052d51d7d13f599118f4fc735\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\659835947621205c596510192efb6948\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\44f8776d015daf35bd482bcf80ea39d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\338a4d7c37ad12afb72685a4b31ccb4c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:4:5-23
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:10:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CAMERA
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:16:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:18:5-60
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:18:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:19:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:22:5-69
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:22:22-66
+application
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:24:5-52:19
+MERGED from [com.android.support:support-compat:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\6d86239374c99fb9affe93ff848cdb24\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\6d86239374c99fb9affe93ff848cdb24\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\50098c5471197414fca79dbad5485756\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\50098c5471197414fca79dbad5485756\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\6d86239374c99fb9affe93ff848cdb24\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:25:9-46
+activity#com.xmpp.activity.WelcomeActivity
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:31:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.xmpp.activity.LoginActivity
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:39:9-41:47
+	android:launchMode
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:40:13-59
+activity#com.xmpp.MainActivity
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:42:9-44:55
+	android:windowSoftInputMode
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:43:13-49
+activity#com.xmpp.activity.RegisterActivity
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:45:9-71
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:45:19-68
+activity#com.xmpp.activity.AddFriendActivity
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:46:9-72
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:46:19-69
+activity#com.xmpp.activity.ImgPageActivity
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:47:9-70
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:47:19-67
+activity#com.xmpp.activity.ChatActivity
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:48:9-67
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:48:19-64
+service#com.xmpp.service.MsfService
+ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:50:9-63
+	android:name
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml:50:18-60
+uses-sdk
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b166f46e1d1c06dda96c9e57c5c5c61c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b166f46e1d1c06dda96c9e57c5c5c61c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b5c2465895c03f3507f55d32c2e15e01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b5c2465895c03f3507f55d32c2e15e01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\51040c913a4f7ae7efdb9a35bb685f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\51040c913a4f7ae7efdb9a35bb685f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\8833feca73434a68f0b2ec77ad5354aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\8833feca73434a68f0b2ec77ad5354aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\76ad538152a443912be62292db06653d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\76ad538152a443912be62292db06653d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\fda70aa71d9092804d2ed1e8cfa76b4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\fda70aa71d9092804d2ed1e8cfa76b4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\0efe35996b255db7a6af829fb14e715f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\0efe35996b255db7a6af829fb14e715f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\aabbbe5150b4981cb37232f018bb3854\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\aabbbe5150b4981cb37232f018bb3854\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\ca38c7e8efd6c61f1e2f6f309db0b482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\ca38c7e8efd6c61f1e2f6f309db0b482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\d17f81b110b08870c98f21f60d7452a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\d17f81b110b08870c98f21f60d7452a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\748ce6fd5947222f6da86a1e29efb68b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\748ce6fd5947222f6da86a1e29efb68b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\e6749b75065415de83d3772cedb23e02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\e6749b75065415de83d3772cedb23e02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\f4cb36ded91832573e5fbabe2d8de58e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\f4cb36ded91832573e5fbabe2d8de58e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\859ad9d9d5e594eb9640e415e0401dc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\859ad9d9d5e594eb9640e415e0401dc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\6d86239374c99fb9affe93ff848cdb24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\6d86239374c99fb9affe93ff848cdb24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\50098c5471197414fca79dbad5485756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\50098c5471197414fca79dbad5485756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\624375d6ce7c21ccafb9e6bf7af35903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\624375d6ce7c21ccafb9e6bf7af35903\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\379742d6b12351c2812602f37bd6422e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\379742d6b12351c2812602f37bd6422e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\4d2d10ecc43acd23ed4af826916d894b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\4d2d10ecc43acd23ed4af826916d894b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b44096fd614aa57f6bb98545bd0a2ed7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b44096fd614aa57f6bb98545bd0a2ed7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b341308c6c97876545502443080a95df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\b341308c6c97876545502443080a95df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\22f924eeac93c6ee9a81c69fc5317808\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\22f924eeac93c6ee9a81c69fc5317808\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\7c8c477052d51d7d13f599118f4fc735\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\7c8c477052d51d7d13f599118f4fc735\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\659835947621205c596510192efb6948\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\659835947621205c596510192efb6948\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\44f8776d015daf35bd482bcf80ea39d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\.gradle\caches\transforms-2\files-2.1\44f8776d015daf35bd482bcf80ea39d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\338a4d7c37ad12afb72685a4b31ccb4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\.gradle\caches\transforms-2\files-2.1\338a4d7c37ad12afb72685a4b31ccb4c\AndroidManifest.xml:20:5-44
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\chat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\chat\app\src\main\AndroidManifest.xml
